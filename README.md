@@ -13,6 +13,10 @@ This is a personal portfolio website that I created for myself. It is a single p
 
 ![Screenshot of the website]()
 
+## deployed link
+
+https://naodhu.github.io/PersonalPortfolio/
+
 ## Installation
 
 To install this website, you can either download the zip file or clone the repository.
