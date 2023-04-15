@@ -1,15 +1,13 @@
 # PersonalPortfolio
 
-
 This is a personal portfolio website that I created for myself. It is a single page website that is responsive and has a clean and simple design. It is built using HTML, CSS, and JavaScript. It is hosted on GitHub Pages.
 
 ## Features
 
-* Responsive design
-* Clean and simple design
-* Single page website
-* Hosted on GitHub Pages
-
+- Responsive design
+- Clean and simple design
+- Single page website
+- Hosted on GitHub Pages
 
 ## Screenshots
 
@@ -33,15 +31,16 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Acknowledgements
 
-* [GitHub Pages](https://pages.github.com/)
-* [Font Awesome](https://fontawesome.com/)
-* [Google Fonts](https://fonts.google.com/)
-* [Unsplash](https://unsplash.com/)
-* [Animate On Scroll](https://michalsnik.github.io/aos/)
-* [Typed.js](https://mattboldt.com/demos/typed-js/)
-* [Particles.js](https://vincentgarreau.com/particles.js/)
-
+- [GitHub Pages](https://pages.github.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Unsplash](https://unsplash.com/)
+- [Animate On Scroll](https://michalsnik.github.io/aos/)
 
 ## Contact
 
-Created by [@jamesqquick](https://twitter.com/jamesqquick) - feel free to contact me!
+Created by [@naod](https://www.instagram.com/naooddd/) - feel free to contact me!
+
+## Project Status
+
+This project is currently in development. I plan on adding more features in the future.
